@@ -10,7 +10,7 @@ def read_and_shuffle_names(filename="names.txt"):
   """
   Read a file and shuffle the lines that do not start with 
   a '#'. These are assumed to be names of classroom 
-  participants.
+  participants. 
   """
   with open(filename) as f:
     names = [l.strip() for l in f.readlines() if l.strip()[0] != '#']
