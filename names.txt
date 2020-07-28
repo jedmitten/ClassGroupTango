@@ -1,0 +1,9 @@
+# Add student names to this list
+# Any line starting with # will be ignored
+Jed Mitten
+Mariana Haedo
+John James Guerrito
+Samantha Bee
+Jane Doe
+Mark Hamill
+Charlize Theron
